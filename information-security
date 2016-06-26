@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>Information Security Services - IT Services | WonderOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="Bug Hunting" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!--    <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+
+<!-- Menu starts -->
+      <ul>
+<li><a href="http://wonderops.com">HOME</a></li>
+            <li><a href="server-management">Server Management</a></li>
+            <li><a href="information-security">Information Security</a></li>
+            <li><a href="software-development">Software Development</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="media">Media</a></li>
+<!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+      </ul>
+<!--Menu ends-->
+
+	</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	<div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+        	<h2>Information Security</h2>
+             <div class="why-cho_inner_subtext"><img src="images/magic-rabbit.jpg" height=300 width=330>
+There are no shortage of reports of the effects of cybercrime. Independent reports estimate 200 million attempted hacks each year globally costing billions of dollars to the global economy. Recent events continue to illustrate the need for companies to exercise responsibility to their customers and stakeholders by employing reasonable efforts to securing confidential data. 
+<br><br>
+
+<li>Reports in 2013 have indicated 86% of web applications have at least one serious vulnerability that can be exploited</li>
+<li>The average number of serious vulnerabilities per web application is 56</li>
+<li>There are approximately 5000 web related vulnerabilities at any given time</li>
+<li>Hundreds of new vulnerabilities surface per month</li>
+<li>Estimated costs globally related to malicious hacking is approximately $400 billion</li>
+<br><br>
+
+WonderOps is a company that finds vulnerabilities (bugs). We help our clients provide a safer web experience for their customers. Not only do we have a model that assumes the responsibility for security, we also can perform vulnerability assessments and penetration testing. We have researchers who are listed in the Hall of Fame for accomplished vulnerability discovery with companies such as Google and Facebook. We do professional bug hunting for fun and bragging rights with companies who provide recognition and/or reward for discoveries. We have relevant work experience to provide application security analysis to our customers, providing advanced mitigation before an incident is experienced. 
+<br><br>
+
+Our cloud server management services assumes all responsibilities for cloud service provider security, server end point security, monitoring and detection. Many clients do not have the capacity or expertise to examine logs and keep up with the latest releases of security patches for your servers. We make it easy for you to be cyber security responsible by providing custom information security solutions. WonderOps provides the peace of mind that comes with advanced protection against the malicious potential of the global Internet. 
+<br><br>
+
+Most company budgets for Information Security are spent on network security and detection. Commonly, large spending for firewalls and intrusion detection are what most companies rely on for data protection. However, it is estimated 2/3 of malicious attacks are aimed at applications. These attacks can look like normal traffic to firewalls and intrusion detection and prevention strategies. The problem is exacerbated when companies are externally hosted with hosting companies or with a cloud service provider. The most proficient means of security must be at the end point. WonderOps has the ability to perform our own assessments, but with our network of researchers beyond our own team we can facilitate expert crowd sourced vulnerability assessments for our clients. Clients can pay for vulnerabilities found by a large community of security professionals around the world that would otherwise be inaccessible. If no vulnerabilities are found, the client pays nothing. Contact us if you want to run your own bug hunting campaign. 
+
+<br><br><br><br><br><br><br><br>
+</div>
+            </div> 
+    </div>
+     <div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>

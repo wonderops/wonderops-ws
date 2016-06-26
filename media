@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- title-->
+    <title>WonderOps - Media</title>
+	<!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <!-- SEO ends-->
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+    <!-- Scripts-->
+    </head>
+    <body>
+    	<div id="navigation">
+        <!-- Logo starts -->
+        <!-- <img class="nav-logo" src="images/logo.png"> -->
+        <!-- Logo ends -->
+        	<!-- Menu starts -->
+        	<ul>
+                <li><a href="http://wonderops.com">HOME</a></li>
+                <li><a href="server-management">Server Management</a></li>
+                <li><a href="information-security">Information Security</a></li>
+                <li><a href="software-development">Software Development</a></li>
+                <li><a href="about">ABOUT</a></li>
+                <li><a href="contact.php">CONTACT</a></li>
+                <li><a href="media">Media</a></li>
+        		<!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+          	</ul>
+    		<!--Menu ends-->
+        </div>
+    	<!--Content Starts-->
+    	<div class="main-container">
+    	<!-- Top bar starts -->
+     	<!-- Top bar ends-->
+        	<div class="why-this-inner"> 
+              <div class="why-cho_inner">
+               	<h2>Media</h2>
+                  <table width="100%">
+                    <tr>
+                      <td>
+                        <audio controls="controls">
+                                <source src="./sounds/Wonderopstastic.wav" type="audio/wav" />
+                                Your browser does not support audio element
+                        </audio>
+                      </td>
+                      <td>Listen to the WonderOps jingle!</td>
+                    </tr>
+                   <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                   <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td width="37%"><iframe height="300px" src="//www.youtube.com/embed/D5UmUyasH9s" frameborder="0" allowfullscreen></iframe></td>
+                      <td width="63%">WonderOps on the air</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>          
+                    <tr>
+                      <td width="37%"><iframe height="300px" src="//www.youtube.com/embed/iexDERVYfvA" frameborder="0" allowfullscreen></iframe></td>
+                      <td width="63%">Learn how WonderOps helps startups in this short video.</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td height="27">&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td height="27">&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+
+
+                    <tr>
+                      <td>
+                      	<audio controls="controls">
+                        	<source src="./sounds/WonderOps_60_with_music.mp3" type="audio/wav" />
+                            	Your browser does not support audio element
+                        </audio>
+                      </td>
+                      <td>Listen to the WonderOps radio commercial</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="27">&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </table>
+                  <!--
+                  <h2>Testimonials</h2>
+                  <table width="100%">
+                  	<tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </table> -->
+                </div>
+                <br /><br /><br /><br /><br /><br /><br />
+        	</div>
+         	<div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+		</div>    
+    </body>
+</html>
