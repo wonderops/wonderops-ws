@@ -1,0 +1,13 @@
+
+
+Options +FollowSymlinks
+RewriteEngine on
+
+#redirect www to domain name dropping out the www
+rewritecond %{http_host} ^www.wonderops.com [nc]
+rewriterule ^(.*)$ http://wonderops.com/$1 [r=301,nc]
+
+#redirect ip address to domain name
+RewriteCond %{HTTP_HOST} ^162\.243\.137\.121
+RewriteRule (.*) http://wonderops.com/$1 [R=301,L]
+
