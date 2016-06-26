@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>WonderOps - Secure DevOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WondeOps, Project Management" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!--    <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+    <!-- Menu starts -->
+      <ul>
+            <li><a href="http://wonderops.com">HOME</a></li>
+            <li><a href="information-security">Information Security</a></li>
+            <li><a href="software-development">Software Development</a></li>
+            <li><a href="server-management">Secure Cloud Server Management</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact">CONTACT</a></li>
+            <li><a href="media">Media</a></li>
+            <!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+      </ul>    
+<!--Menu ends-->
+	</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	<div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+<h1 style="text-align: center;">WonderBlog</h1>
+
+<!--<h3>My First Post</h3>
+
+<em>June 1, 2010</em><br />
+
+<p>This is a post</p>
+
+<hr> -->
+
+<h3>Cloud Security Permiters</h3>
+
+<em>December 07, 2013</em><br />
+<br>
+<p>If you are not yet aware, companies transitioning to a cloud service provider for any services introduce the need for new processes, personnel and security considerations. Cloud Server Alliance announced on December 06, 2013 their support for Software Defined Perimeter. The idea is authentication will be required before network access is granted. Though the future of this strategy will take time to determine adoption, it should raise awareness to companies that cloud security is a major consideration when planning how cloud services fit into a business strategy.</p>
+<br>
+<p>I recently spoke to a CEO who was very keen on moving as much as possible to the 'cloud'. However, it was obvious that the business implications of those decisions had not yet been explored, other than the potential cost savings. This company is subject to PCI compliance for business operations. The new boundaries of their cloud service provider must be addressed. Within the specific contracts, the company must ensure the audit language is built in enough to satisfy their specific compliance requirements. Many people wrongfully believe migrating to a cloud service provider transfers the security and compliance responsibility to the CSP. Though some of the tactical aspects of compliance will be carried out by the provider, the accountability resides with the company implementing cloud computing as an IT infrastructure. Much will be discovered by this CEO when the hidden costs and emergency reactions begin.</p>
+<br>
+<p>SecurityWeek published an article on December 05, 2013 with research indicating more than 80% of employees are using unapproved cloud based services on their jobs. This is interesting in a couple of ways. First, it shows the ease and rapid adoption that can happen with cloud based services. Your company will be faced with cloud computing in your business whether you plan for it or not. Second, every company will develop core competency in cloud computing and strategies will vary widely. Some companies will choose to develop in house expertise and some companies will develop partnerships with a company like WonderOps. Even a sequential strategy where a company starts off with partnerships to bridge the gap of time to develop their own internal expertise is a viable strategy that will allow a company to quickly benefit from cloud computing. Thirdly, companies will be dealing with many cloud service providers. These will come in the form of Infrastructure as a Service, Platform as a Service and Software as a Service. Acceptance of that and creating a flexible business model for use, management and security will put many companies way ahead of competitors.  
+</p>
+<br>
+<hr>	
+
+
+
+</div>
+            </div> 
+    </div>
+
+
+     <div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>

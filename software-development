@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>Software Development Services - IT Services | WonderOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!--    <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+<!-- Menu starts -->
+      <ul>
+<li><a href="http://wonderops.com">HOME</a></li>
+            <li><a href="server-management">Server Management</a></li>
+            <li><a href="information-security">Information Security</a></li>
+            <li><a href="software-development">Software Development</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="media">Media</a></li>
+<!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+      </ul>
+<!--Menu ends-->
+
+	</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	<div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+        	<h2>Software Development</h2>
+             <div class="why-cho_inner_subtext"><img src="images/magic-rabbit2.jpg" height=370 width=350>
+
+
+WonderOps is capable of building your web or mobile application using a formal software development life cycle centered on agile development. We build your web or mobile applications using Ruby on Rails, Java, .NET, native iOS or Android. We strive to complete most projects in 8 weeks, getting your application in motion the most efficient and cost effective means possible.
+<br><br>
+
+Our software development coupled with Cloud Server Management is a unique DevOps offering in the marketplace. DevOps is a growing interdependent relationship between software development and Information Technology Operations. The design of DevOps is to optimize release management and maximize the predictability, efficiency, security and management of operational support. At WonderOps, our DevOps solution is interdependent with our information security focus for an end to end agile and secure service deployment. There are some key benefits to the DevOps philosophy. Bringing software development and operations together has big advantages such as reduction of friction at the time of integration. WonderOps can provide the full advantages of a complete DevOps integration or simply software development within the scope of a project using agile development. 
+
+<br><br>
+
+From its beginnings, WonderOps has supported building the ideas of entrepreneurs with software development. We began by providing project level web application software development for emerging startups, providing a cost effective Minimal Viable Product (MVP). That company tradition continues today as we continue to offer a startup friendly package to build cost effective web applications using Ruby on Rails. WonderOps continues to be a best option for startups faced with no outside funding or for angel investors needing to ensure the application they are investing in gets properly built. When others can't make it work, WonderOps supports emerging early stage startups, helping you get your Minimum Viable Product built and to market.
+<br><br>
+
+Contact us to learn more about our capabilities and how we can support your software development needs. 
+</div>
+            </div> 
+    </div>
+     <div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>
