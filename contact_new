@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>WonderOps - Secure DevOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!--    <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+<!-- Menu starts -->
+      <ul>
+<li><a href="http://wonderops.com">HOME</a></li>
+            <li><a href="cloud-management">Server Management</a></li>
+            <li><a href="information-security">Information Security</a></li>
+            <li><a href="software-development">Software Development</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact">CONTACT</a></li>            
+<!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+      </ul>
+<!--Menu ends-->
+
+
+	</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	<div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+        	<h2>Contact WonderOps</h2>
+             <div class="why-cho_inner_subtext">
+             
+If you would like to contact us for world class data protection and navigation of the mysteries of the cloud, we make it pretty simple. Just fill up the form below.
+<!--Contact us at <a href="mailto:info@wonderops.com">info@wonderops.com</a> or call us at 720-583-5463. -->
+<!--
+	<div id="contact" style="font-size:10px !important;">
+			<div id="message"></div>
+
+			<form method="post" action="contact.php" name="contactform" id="contactform">
+
+			<fieldset>
+
+			<legend>Please fill in the following form to contact us</legend>
+
+			<label for="name" accesskey="U"><span class="required">*</span> Your Name</label>
+			<input name="name" type="text" id="name" size="30" value="" />
+
+			<br />
+			<label for="email" accesskey="E"><span class="required">*</span> Email</label>
+			<input name="email" type="text" id="email" size="30" value="" />
+
+			<br />
+			<label for="phone" accesskey="P"><span class="required">*</span> Phone</label>
+			<input name="phone" type="text" id="phone" size="30" value="" />
+
+			<br />
+			<label for="subject" accesskey="S">Subject</label>
+			<select name="subject" id="subject">
+			  <option value="Support">Support</option>
+			  <option value="a Sale">Sales</option>
+			  <option value="a Bug fix">Report a bug</option>
+			</select>
+
+			<br />
+			<label for="comments" accesskey="C"><span class="required">*</span> Your comments</label>
+			<textarea name="comments" cols="40" rows="3" id="comments" style="width: 350px;"></textarea>
+
+			<p><span class="required">*</span> Are you human?</p>
+
+			<label for="verify" accesskey="V">&nbsp;&nbsp;&nbsp;3 + 1 =</label>
+			<input name="verify" type="text" id="verify" size="4" value="" style="width: 30px;" /><br /><br />
+
+			<input type="submit" class="submit" id="submit" value="Submit" />
+
+			</fieldset>
+
+			</form>
+
+	</div>
+
+	-->
+<div id="content" style="width:100%;margin-bottom:90px !important;">
+   <div id="post-2461" class="" style="line-height: 22px !important;">
+      <div class="post-content" style="color: #747474 !important;line-height: 22px !important;font-size: 13px;">
+ <p></p>
+ <br/>
+      </div>
+      <form action="" method="post">
+         <div id="comment-input" style="overflow: hidden;margin-bottom: 13px;">
+		
+		<input type="text" name="contact_name" id="author" value="" placeholder="Your Name (required)" size="22" tabindex="1" aria-required="true" class="input-name" style="border: 1px solid #d2d2d2;width: 28%;font-size: 13px;color: #747474;-webkit-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);-moz-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);padding: 8px 2%;float: left;margin-right: 1%;color: #aaa9a9 !important;font: 100% Arial,Helvetica,sans-serif;vertical-align: middle;">
+		 
+		 <input type="text" name="email" id="email" value="" placeholder="Your Email (required)" size="22" tabindex="2" aria-required="true" class="input-email GINGER_SOFTWARE_control" spellcheck="false" ginger_software_editor="true" style="border: 1px solid #d2d2d2;width: 28%;font-size: 13px;color: #747474;-webkit-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);-moz-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);padding: 8px 2%;float: left;margin-right: 1%;color: #aaa9a9 !important;font: 100% Arial,Helvetica,sans-serif;vertical-align: middle;"> 
+		 
+		 <input type="text" name="url" id="url" value="" placeholder="Your Phone" size="22" tabindex="3" class="input-website" style="border: 1px solid #d2d2d2;width: 28%;font-size: 13px;color: #747474;-webkit-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);-moz-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);padding: 8px 2%;float: left;margin-right: 1%;color: #aaa9a9 !important;font: 100% Arial,Helvetica,sans-serif;vertical-align: middle;">
+		 
+		 </div>
+		 
+		 <div id="comment-input" style="overflow: hidden;margin-bottom: 13px;">
+					<input type="text" name="contact_name" id="author" value="" placeholder="Your Company Name " size="22" tabindex="1" aria-required="true" class="input-name" style="border: 1px solid #d2d2d2;width: 94.3%;font-size: 13px;color: #747474;-webkit-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);-moz-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);padding: 8px 2%;float: left;margin-right: 1%;color: #aaa9a9 !important;font: 100% Arial,Helvetica,sans-serif;vertical-align: middle;">
+
+		 </div>
+         
+		 <div id="comment-textarea">
+		 
+		 <textarea name="msg" id="comment" cols="39" rows="4" tabindex="4" class="textarea-comment" placeholder="Your Inquiry (required)" spellcheck="false" ginger_software_editor="true" style="background-attachment: local !important;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA5wAAACmCAYAAAC2u4CHAAAL8ElEQ…AAAQIECBAgQIAAAQIEEgHBmbAaJUCAAAECBAgQIECAAIEHd/QApwwdkNAAAAAASUVORK5CYII=) !important;position: relative;font-size: 13px;white-space: pre-wrap;background-position: 0px 0px !important;background-repeat: no-repeat no-repeat!important;border-color: #d2d2d2 !important;border: 1px solid #d2d2d2;width: 96%;height: 150px;font-size:13px;color: #747474;-webkit-box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);-moz-box-shadow: inset 0 1px5px rgba(0,0,0,0.1);box-shadow: inset 0 1px 5px rgba(0,0,0,0.1);padding: 8px 11px;font: 100%;Arial,Helvetica,sans-serif;vertical-align: middle;background-color:white"></textarea>
+		 
+		 </div>
+         <div id="comment-recaptcha" style="float:left;padding-top:20px;">
+            <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LcrMtkSAAAAAPzwwc0zKVC8Mkuvu6oR_9aaTlRn&amp;hl=en_US"></script><script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_canary.js"></script>
+	
+		</div>
+
+<div id="comment-submit" style="float:right;padding-top:80px;margin-right:20px;"><p></p><div><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Form" class="comment-submit button small green" style="background: #AAD75B;
+color: #54770f !important;background-image: -webkit-gradient( linear, left top, left bottom, color-stop(0, #D1E990), color-stop(1, #AAD75B) );border: 1px solid #AAD75B;min-height: 50px;font: 13px/32px 'PTSansBold', arial, helvetica, sans-serif;
+text-transform: uppercase;text-align: center;text-shadow: 0 1px 0 #fff;padding: 0 20px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.2);-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.2);box-shadow: 0 1px 1px rgba(0,0,0,0.2);"></div><p></p></div>
+
+
+            </div> 
+
+			</div>
+			
+     <div style="margin-top:30px;float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>

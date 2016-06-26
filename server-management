@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>Server Management Services - IT Services | WonderOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!--    <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+
+<!-- Menu starts -->
+      <ul>
+            <li><a href="http://wonderops.com">HOME</a></li>
+	    <li><a href="server-management">Server Management</a></li>
+            <li><a href="information-security">Information Security</a></li>
+            <li><a href="software-development">Software Development</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="media">Media</a></li>
+            <!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+      </ul>
+<!--Menu ends-->
+
+	</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	<div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+        	<h2>Server Management</h2>
+             <div class="why-cho_inner_subtext"><img src="images/content-image.jpg" height=250 width=330>
+	Companies everywhere, of all sizes are discovering the advantages of integrating their businesses with cloud computing. However, transitioning elements of operations to a cloud provider adds new risks and new responsibiities for tenants. Using cloud services requires companies to transform IT service models and the development of new processes and procedures for operations. Wrongfully, many companies assume data protection is transferred to the cloud service provider. The responsibility for data protection remains with the owner of the data. Companies selecting cloud computing as a strategy must evaluate the operational impact for their applications.
+
+            <br><br>
+            WonderOps is a IT services partner that allows companies to free their organization from the wasted time and money caused by operations. These services shackle companies from focusing on the more important aspects of their business such as customer acquisition and research and development. We take on the IT operational tasks of a company by managing your servers 7x24x365, so you don't have to. We monitor using fault and performance management tools and provide our customers with summary data regarding their server performance. This allows you to stay informed about your information technology without being over burdened by it.
+
+
+            <br><br>
+
+            The WonderOps solution for server management is a simple and cost effective offering that allows your staff to focus on building new ships while we keep your existing ships afloat.
+        </div>
+            </div>
+    </div>
+
+
+	</div>
+            </div> 
+    </div>
+
+
+     <div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>
