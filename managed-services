@@ -25,14 +25,13 @@
 
 <!-- Menu starts -->
       <ul>
-            <li><a href="http://wonderops.com">HOME</a></li>
-	    <li><a href="server-management">Server Management</a></li>
-            <li><a href="information-security">Information Security</a></li>
-            <li><a href="software-development">Software Development</a></li>
-            <li><a href="about">ABOUT</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
-            <li><a href="media">Media</a></li>
-            <!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
+                <li><a href="http://wonderops.com">HOME</a></li>
+                <li><a href="managed-services">Managed Services</a></li>
+                <li><a href="cloud-migration">Cloud Migration</a></li>
+                <li><a href="it-consulting">IT Consulting</a></li>
+                <li><a href="about">ABOUT</a></li>
+                <li><a href="contact.php">CONTACT</a></li>
+                <li><a href="media">Media</a></li>
       </ul>
 <!--Menu ends-->
 
