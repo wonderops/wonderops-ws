@@ -180,7 +180,7 @@ margin-right: 10px;
         	<h2>Contact WonderOps</h2>
              <div class="why-cho_inner_subtext" >
              
-Please use the form below to ask any questions or get a quote for services
+To contact us at WonderOps, we make it simple. Use the form below to contact us and we will get back to you ASAP.
 <?php if($success){?>
 <div class="box success"><strong>SUCCESS!</strong> Your message was successfully sent.</div>
 <?php } ?>
