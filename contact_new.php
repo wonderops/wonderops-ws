@@ -69,7 +69,7 @@ $msg = "";
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    	<!-- title-->
-	<title>WonderOps - Secure DevOps</title>
+	<title>WonderOps - Technology</title>
                
     <!-- SEO starts-->
     <meta content="Performing IT Magic" name="description">
