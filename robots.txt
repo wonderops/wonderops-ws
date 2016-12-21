@@ -1,4 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /demo/
+Disallow: /media/
+
 
 Sitemap: http://wonderops.com/sitemap.xml
