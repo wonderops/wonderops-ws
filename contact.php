@@ -180,7 +180,7 @@ margin-right: 10px;
         	<h2>Contact WonderOps</h2>
              <div class="why-cho_inner_subtext" >
              
-<b>Currently Seeking:</b> full stack Software Developer experienced with MEAN stack in Boulder, CO. 
+<b>Currently Seeking:</b>  full stack Software Developer experienced with MEAN stack 
 
 <br><br>
 
