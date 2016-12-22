@@ -160,8 +160,8 @@ margin-right: 10px;
             <li><a href="server-management">Server Management</a></li>
             <li><a href="information-security">Information Security</a></li>
             <li><a href="software-development">Software Development</a></li>
-            <li><a href="about">ABOUT</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="contact.php">Contact</a></li>
             <li><a href="careers">Opportunities</a></li>
 <!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
       </ul>

@@ -3,7 +3,7 @@
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!-- title-->
-    <title>WonderOps - Media</title>
+    <title>WonderOps - Careers</title>
 	<!-- SEO starts-->
     <meta content="Performing IT Magic" name="description">
     <meta content="WonderOps, IT Services" name="keywords">
@@ -25,8 +25,8 @@
                 <li><a href="managed-services">Managed Services</a></li>
                 <li><a href="software-development">Software Development</a></li>
                 <li><a href="cloud-engineering">Cloud Engineering</a></li>
-                <li><a href="about">ABOUT</a></li>
-                <li><a href="contact.php">CONTACT</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 <li><a href="careers">Opportunities</a></li>
       </ul>
     		<!--Menu ends-->
@@ -37,123 +37,8 @@
      	<!-- Top bar ends-->
         	<div class="why-this-inner"> 
               <div class="why-cho_inner">
-               	<h2>Media</h2>
-                <br>Here is some of our early marketing attempts at WonderOps. Though we have refined our focus areas over the years as we have evolved, it is still fun to keep these around.<br><br><br><br><br>
-                  <table width="100%">
-                  <table width="100%">
-                    <tr>
-                      <td>
-                        <audio controls="controls">
-                                <source src="./sounds/Wonderopstastic.wav" type="audio/wav" />
-                                Your browser does not support audio element
-                        </audio>
-                      </td>
-                      <td>Listen to the WonderOps jingle! We had fun with this for an event</td>
-                    </tr>
-                   <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                   <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                   <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td width="37%"><iframe height="300px" src="https://www.youtube.com/embed/HYm0oMfSNPU" frameborder="0" allowfullscreen></iframe></td>
-                      <td width="63%">A 2 minute marketing commericial about WonderOps. Best viewed in full screen mode. Free the wonders of your organization</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                   <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                   <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td width="37%"><iframe height="300px" src="//www.youtube.com/embed/D5UmUyasH9s" frameborder="0" allowfullscreen></iframe></td>
-                      <td width="63%">WonderOps on the air</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>          
-                    <tr>
-                      <td width="37%"><iframe height="300px" src="//www.youtube.com/embed/iexDERVYfvA" frameborder="0" allowfullscreen></iframe></td>
-                      <td width="63%">Learn how WonderOps helps small businesses in this short video.</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td height="27">&nbsp;</td>
-                        <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                        <td height="27">&nbsp;</td>
-                        <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-
-
-                    <tr>
-                      <td>
-                      	<audio controls="controls">
-                        	<source src="./sounds/WonderOps_60_with_music.mp3" type="audio/wav" />
-                            	Your browser does not support audio element
-                        </audio>
-                      </td>
-                      <td>Listen to one of our early WonderOps radio commercials</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td height="27">&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                  </table>
-                  <!--
-                  <h2>Testimonials</h2>
-                  <table width="100%">
-                  	<tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                    <tr>
-                      <td>&nbsp;</td>
-                      <td>&nbsp;</td>
-                    </tr>
-                  </table> -->
+               	<h2>Opportunities</h2>
+                <br><b>Full Stack Developer</b> - Boulder, CO area. Must be experienced with MEAN stack. <br><br><br><br><br>
                 </div>
                 <br /><br /><br /><br /><br /><br /><br />
         	</div>
