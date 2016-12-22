@@ -162,7 +162,7 @@ margin-right: 10px;
             <li><a href="software-development">Software Development</a></li>
             <li><a href="about">ABOUT</a></li>
             <li><a href="contact">CONTACT</a></li>
-            <li><a href="media">Media</a></li>
+            <li><a href="careers">Opportunities</a></li>
 <!-- <li><a href="mailto:info@wonderops.com">CONTACT</a></li> -->
       </ul>
 <!--Menu ends-->
