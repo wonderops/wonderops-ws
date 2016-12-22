@@ -180,7 +180,7 @@ margin-right: 10px;
         	<h2>Contact WonderOps</h2>
              <div class="why-cho_inner_subtext" >
              
-Please use this form to connect with us! Let us know if you are an employer or IT professional. Our default action is to include you in our mailing list appropriate to your interest. If you would prefer not to be on our mailing list, let us know in the comments. 
+Please use this form to connect with us! Let us know if you are an employer or IT professional. Our default action is to include you in our mailing list appropriate to your interest. If you would prefer not to be on our mailing list, let us know in the comments. We look forward to working with you.
 <?php if($success){?>
 <div class="box success"><strong>SUCCESS!</strong> Your message was successfully sent.</div>
 <?php } ?>
