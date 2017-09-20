@@ -42,7 +42,7 @@
  <!-- Top bar ends-->
 	<div class="why-this-inner"> 
         	<div class="why-cho_inner">
-        	<h2>Managed Services</h2>
+        	<h2>Continuous Integration</h2>
              <div class="why-cho_inner_subtext"><img src="images/content-image.jpg" height=250 width=330>
 Continuous Integration is the act of enabling developers to integrate their code with the work of others frequently, like many times a day. Upon integration, automated testing is initiated to verify the code to be integrated is error free. By integrating frequently, the software development process improves. Developers are able to get the latest code faster. Problems are detected and corrected quicker. 
 <br><br>
