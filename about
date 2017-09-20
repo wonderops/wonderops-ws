@@ -26,12 +26,9 @@
 <!-- Menu starts -->
       <ul>
                 <li><a href="http://wonderops.com">HOME</a></li>
-                <li><a href="managed-services">Managed Services</a></li>
-                <li><a href="software-development">Software Development</a></li>
-                <li><a href="cloud-engineering">Cloud Engineering</a></li>
+                <li><a href="devops">Managed Services</a></li>
                 <li><a href="about">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="careers">Opportunities</a></li>
       </ul>
 <!--Menu ends-->
 
@@ -46,10 +43,10 @@
         	<h2>About WonderOps</h2>
              <div class="why-cho_inner_subtext"><img src="./images/hat-wand.jpg">
 
-WonderOps started with an idea on how to help startups with technology. We originally built a startup pack that was designed to help entrepreneurs launch into business without having to find the elusive "Technical Co-Founder". We became the co-founder. We worked with companies in the US, India, China and Africa. 
+My name is Steve Lynch and I am in the Denver area. I am a failed entrepreneur. I tried a couple of times to get my own start up going, but I came to realize I always got caught up doing the things I liked least. WonderOps is what remains of my last attempt and when viewed in a different light is successful. It is a platform for my ability to help others with what I know through side work. What was once a source of stress and energy drain, now is a source of joy. 
 <br><br>
 
-Fast-forward to today and things are very different, but in some ways still the same. We are an IT company that continues to want to add value, be a change agent, and make a difference. Our priority is to provide good people for our clients to build awesome teams with.   
+I work in DevOps as my day job. I build software pipelines and automate. There is always much to learn. However, it is a domain within Information Technology that I genuinely enjoy. If you need some help, don't hesitate to reach out. I only work with small, flexible organizations. 
 <br><br>
    
 
