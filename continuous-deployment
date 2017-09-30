@@ -3,18 +3,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    	<!-- title-->
-	<title>Information Security Services - Software Development | WonderOps</title>
+	<title>Continuous Deployment | WonderOps</title>
                
     <!-- SEO starts-->
     <meta content="Performing IT Magic" name="description">
     <meta content="WonderOps, IT Services" name="keywords">
-    <meta content="Bug Hunting" name="keywords">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 	<!-- SEO ends-->
         
     <!-- Stylesheet-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
         
 	<!-- Scripts-->
 </head>
@@ -42,16 +41,16 @@
 <!-- Top bar starts -->
 	
  <!-- Top bar ends-->
-	<div class="why-this-inner"> 
+		<div class="why-this-inner"> 
         	<div class="why-cho_inner">
         	<h2>Software Development</h2>
-             <div class="why-cho_inner_subtext"><img src="images/magic-rabbit.jpg" height=300 width=330>
+             	<div class="why-cho_inner_subtext"><img src="images/magic-rabbit.jpg" height=300 width=330>
 
-Software Development goes beyond writing code. At WonderOps, we have experience with agile development and DevOps processes to help our customers navigate today's expectations in software development. Of course we want to create awesome code but we also value continuous integration and frequent hassle-free deployments.  
+To be technically correct, Continuous Delivery and Continuous Deployment are similar but slightly different concepts. By our definition, Continuous Deployment would be automation that immediately deploys changes directly into production. This website is an example of employing continuous deployment. When new content is created and committed, it is immediately delivered to its production platform. Continuous Delivery by our definition is similar yet requires stops along the way for business reasons. This might be for quality assurance (QA), user acceptance testing (UAT), or because the timing of a release needs to coincide with other factors (such as the start of a sale). 
 
 <br><br>
 
-With WonderOps, clients can add the expertise they need to raise the performance level of their software development teams. Whether you need a software architect, agile coach or additional capacity to improve velocity we can help you. Time to market is essential for software product development. Companies must consistently deliver value to their customers with high availability and quality code. At WonderOps, we also want to help customers realize the benefits of DevOps through quality software development, highly automated pipelines, and error free releases. 
+With WonderOps, we can help with both concepts. I can automate builds, integrate tests and deploy your services. Completely automated if that is the goal. Interested in Docker? I can help small companies build a cloud based docker platform that is api driven enabling lightning fast scaling of your services. Or simply create dynamic environments for developers that allow you to scale with your feature development. 
 
 <br><br><br><br><br><br><br><br>
 </div>
