@@ -25,13 +25,12 @@
 
 <!-- Menu starts -->
       <ul>
-                <li><a href="http://wonderops.com">HOME</a></li>
-                <li><a href="managed-services">Managed Services</a></li>
-                <li><a href="software-development">Software Development</a></li>
-                <li><a href="cloud-engineering">Cloud Engineering</a></li>
-                <li><a href="about">About</a></li>
-                <li><a href="contact.php">Contact</a></li>
-                <li><a href="careers">Opportunities</a></li>
+        <li><a href="http://wonderops.com">HOME</a></li>
+        <li><a href="continuous-integration">Continuous Integration</a></li>
+        <li><a href="continuous-deployment">Continuous Deployment</a></li>
+        <li><a href="configuration-management">Configuration Management</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
       </ul>
 <!--Menu ends-->
 
@@ -43,7 +42,7 @@
  <!-- Top bar ends-->
 		<div class="why-this-inner"> 
         	<div class="why-cho_inner">
-        	<h2>Software Development</h2>
+        	<h2>Continuous Deployment</h2>
              	<div class="why-cho_inner_subtext"><img src="images/magic-rabbit.jpg" height=300 width=330>
 
 To be technically correct, Continuous Delivery and Continuous Deployment are similar but slightly different concepts. By our definition, Continuous Deployment would be automation that immediately deploys changes directly into production. This website is an example of employing continuous deployment. When new content is created and committed, it is immediately delivered to its production platform. Continuous Delivery by our definition is similar yet requires stops along the way for business reasons. This might be for quality assurance (QA), user acceptance testing (UAT), or because the timing of a release needs to coincide with other factors (such as the start of a sale). 
