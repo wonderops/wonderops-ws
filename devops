@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   	<!-- title-->
+	<title>DevOps | WonderOps</title>
+               
+    <!-- SEO starts-->
+    <meta content="Performing IT Magic" name="description">
+    <meta content="WonderOps, IT Services" name="keywords">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <!-- SEO ends-->
+        
+    <!-- Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
+        
+	<!-- Scripts-->
+</head>
+<body>
+<div id="navigation">
+    <!-- Logo starts -->
+    <!-- <img class="nav-logo" src="images/logo.png"> -->
+    <!-- Logo ends -->
+<!-- Menu starts -->
+      <ul>
+        <li><a href="http://wonderops.com">HOME</a></li>
+        <li><a href="continuous-integration">Continuous Integration</a></li>
+        <li><a href="continuous-deployment">Continuous Deployment</a></li>
+        <li><a href="configuration-management">Configuration Management</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
+      </ul>
+<!--Menu ends-->
+
+</div>
+<!--Content Starts-->
+<div class="main-container">
+<!-- Top bar starts -->
+	
+ <!-- Top bar ends-->
+	     <div class="why-this-inner"> 
+        	<div class="why-cho_inner">
+        	<h2>DevOps</h2>
+             <div class="why-cho_inner_subtext">
+
+Description
+
+<br><br>
+
+</div>
+            </div> 
+    </div>
+     <div style="float:left; width:100%; height:60px; background:#3a3a3c; font-size:12px; text-align:center; color:#fff; line-height:60px; border-top:5px solid #eaa722;">Copyright  @2013. WonderOps. All Rights Reserved</div>
+</div>    
+</body>
+</html>
